@@ -30,4 +30,8 @@ public class Main {
 	public static void p(Object o) {
 		System.out.println(o);
 	}
+	
+	public void test() {
+		p("test...");
+	}
 }
