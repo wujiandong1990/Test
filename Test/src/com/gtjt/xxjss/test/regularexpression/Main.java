@@ -31,7 +31,4 @@ public class Main {
 		System.out.println(o);
 	}
 	
-	public void test() {
-		p("test...");
-	}
 }
